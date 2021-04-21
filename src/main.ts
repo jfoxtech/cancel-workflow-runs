@@ -10,7 +10,8 @@ const CANCELLABLE_EVENT_TYPES = [
   'pull_request',
   'workflow_run',
   'schedule',
-  'workflow_dispatch'
+  'workflow_dispatch',
+  'repository_dispatch'
 ]
 
 /**
